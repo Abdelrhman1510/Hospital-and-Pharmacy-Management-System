@@ -1,0 +1,59 @@
+<?php
+return [
+
+    'title' => 'الفواتير', //{{trans('Dashboard/invoices.title')}}
+    'single service invoice' => 'فاتورة خدمة مفردة', //{{trans('Dashboard/invoices.single service invoice')}}
+      'add invoice' => 'اضافة فاتور', // {{trans('Dashboard/invoices.add invoice')}}
+    'invoice number' => 'رقم الفاتورة', // {{trans('Dashboard/invoices.invoice number')}}
+    'service name' => ' اسم الخدمة ', // {{trans('Dashboard/invoices.service name')}}
+    'patient name' => 'اسم المريض', //{{trans('Dashboard/invoices.patient name')}}
+    'doctor name' => 'اسم الطبيب', // {{trans('Dashboard/invoices.doctor name')}}
+    'section name'=>'اسم القسم', //{{trans('Dashboard/invoices.section name')}}
+    'invoice date' => 'تاريخ الفاتورة', //{{trans('Dashboard/invoices.invoice date')}}
+    'Service price' => 'سعر الخدمة', //{{trans('Dashboard/invoices.Service price')}}
+    'discount'=>'خصم', //{{trans('Dashboard/invoices.discount')}}
+    'tax'=>'الضريبة', //{{trans('Dashboard/invoices.tax')}}
+    'tax value'=>'قيمة الضريبة',//{{trans('Dashboard/invoices.tax value')}}
+    'total'=>' الاجمالي', //{{trans('Dashboard/invoices.total')}}
+    'invoice type'=>'نوع الفاتورة', //{{trans('Dashboard/invoices.invoice type')}}
+    'process'=>'العمليات', //{{trans('Dashboard/invoices.process')}}
+    'cash'=>'نقدي',//{{trans('Dashboard/invoices.cash')}}
+    'dept'=>'دين', //trans('Dashboard/invoices.dept')}}
+    'data saved successfully'=>'تم حفظ البيانات بنجاح', //{{trans('Dashboard/invoices.data saved successfully')}}
+    'data updated successfully'=>'تم تحديث البعانات بنجاح', //{{trans('Dashboard/invoices.data updated successfully')}}
+    'choose from the list'=>'اختر من القائمة', //{{trans('Dashboard/invoices.choose from the list')}}
+    'confirm'=>'تاكيد', //{{trans('Dashboard/invoices.confirm')}}
+    'print exchange deed'=>' طباعة سند الصرف',
+    // Print Invoices
+    'breadcrumb_invoices' => 'الفواتير', // Invoices
+    'breadcrumb_print' => 'طباعه الفواتير', // Print Invoices
+    'invoice_title' => 'فاتوره مجموعة خدمات', // Service Group Invoice
+    'from' => 'فاتورة مجموعة خدمات', // Invoice From
+    'address' => '201 المهندسين', // Address
+    'tel' => 'Tel No: 0111111111', // Telephone
+    'email' => 'Email: Admin@gmail.com', // Email
+    'invoice_info' => 'معلومات الفاتوره', // Invoice Information
+    'service_name' => 'اسم الخدمه', // Service Name
+    'patient_name' => 'اسم المريض', // Patient Name
+    'invoice_date' => 'تاريخ الفاتوره', // Invoice Date
+    'doctor' => 'الدكتور', // Doctor
+    'section' => 'القسم', // Section
+    'service_price' => 'سعر الخدمه', // Service Price
+    'invoice_type' => 'نوع الفاتوره', // Invoice Type
+    'discount_value' => 'قيمة الخصم', // Discount Value
+    'tax_rate' => 'نسبة الضريبة', // Tax Rate
+    'total_with_tax' => 'الاجمالي شامل الضريبه', // Total with Tax
+    'print' => 'طباعه', //
+    'print invoice' => 'طباعه الفاتوره', // Print Invoice
+    'choose from list'=>'اختار من القائمة',
+    'exchanges'=>'سند صرف',
+    'exDetails'=>'Exchange Details',
+    'notes'=>'ملاحظات',
+    'add new exchange'=>'اضافة سند جديد',
+    'statement'=>'البيان',
+    'price'=>'المبلغ',
+    'edit exchange'=>'تعديل سند صرف ',
+    'del exchange'=>'حذف سند صرف',
+    'prRe'=>'طباعة سند قبض',
+    're'=>'سند قبض'
+];

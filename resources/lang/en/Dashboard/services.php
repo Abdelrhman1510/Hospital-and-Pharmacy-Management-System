@@ -1,0 +1,32 @@
+<?php
+
+return[
+    'Services' => 'Services',
+    'add_Service' => 'Add Service',
+    'delete_Service' => 'Delete Service',
+    'description' => 'Description',
+    'edit_Service' => 'Edit Service',
+    'name' => 'Name',
+    'price' => 'Price',
+    'group_services' => 'Group Services',
+    'group_name' => 'Group Name',
+    'Notes' => 'Notes',
+    'Add_sub_service' => 'Add Sub Service',
+    'service_name' => 'Service Name',
+    'number_of_services' => 'Number of Services',
+    'process' => 'Processes',
+    'total' => 'Total',
+    'discount' => 'Discount',
+    "taxes" => "Taxes",
+    'final_total' => 'Final Total',
+    'submit' => 'Submit',
+    'add' => 'add',
+    'edit' => 'edit',
+    'delete' => ' Delete',
+    'Data Saved Successfully' => 'Data Saved Successfully',
+    'Data Updated Successfully' => 'Data Updated Successfully',
+    'Data Deleted Successfully' => 'Data Deleted Successfully',
+    "Add group service" => "Add group service",
+    'sure' => 'Are you sure you want to delete this data?',
+
+];
